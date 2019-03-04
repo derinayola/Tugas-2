@@ -1,0 +1,29 @@
+body {
+font-family:qucksand;
+font-size:16px;
+margin:0;
+background-image:url(https://Savin-NY-Website-Background-Web-1-1024x576,jpg);
+background-position:top;
+background-attachment:scroll;
+background-repeat:no-repeat;
+}
+h3 {
+font-size:36px;
+font-weight:bold;
+color:navyblue;
+}
+.li-class{
+list-style:url(https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2017/10/goldie.jpg);
+margin-left: 25px;
+padding-left: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+.image{
+background-color: #fff;
+padding: 3px;
+margin: 3px 5px 3px 0;
+border: 5px solid #cccccc;
+width: 100px;
+float: left;
+}
